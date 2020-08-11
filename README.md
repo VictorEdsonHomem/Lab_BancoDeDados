@@ -1,2 +1,2 @@
-# Laborat-rio-de-Banco-de-Dados
+# Lab_BancoDeDados
 Exercícios realizados 
